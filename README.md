@@ -1,9 +1,9 @@
 # 📉 The Premium, Not the Forecast: Forecasting S&P 500 Volatility Term Structure & Trading the VIX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/alexis-schneider-a91079325/)
 
-> **Executive Summary:** This repository contains the code and the full research report for my Master's thesis / Internship project conducted at Politecnico di Milano (L2C Lab). The project investigates whether the statistical predictability of the S&P 500 implied volatility curve can be economically exploited through VIX futures. 
+> **Executive Summary:** This repository contains the code and the full research report for my internship project conducted at Politecnico di Milano (L2C Lab). The project investigates whether the statistical predictability of the S&P 500 implied volatility curve can be economically exploited through VIX futures. 
 > 
 > **Spoiler:** It cannot. By developing a rigorous "Nested Placebo" evaluation framework, this research proves that the strategy's returns come entirely from passively harvesting the volatility risk premium, not from the model's forecasting ability.
 
