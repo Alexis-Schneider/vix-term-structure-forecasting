@@ -7,9 +7,6 @@
 > 
 > **Spoiler:** It cannot. By developing a rigorous "Nested Placebo" evaluation framework, this research proves that the strategy's returns come entirely from passively harvesting the volatility risk premium, not from the model's forecasting ability.
 
-📄 **[Read the full 30-page Research Report here (PDF)](Report/Alexis_Schneider_Internship_Report.pdf)**
-📊 **[View the Presentation Slides here (PDF)](Report/Alexis_Schneider_Presentation.pdf)**
-
 ---
 
 ## 💡 Key Contributions
