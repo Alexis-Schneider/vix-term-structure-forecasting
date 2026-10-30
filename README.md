@@ -149,7 +149,7 @@ python paper_numbers.py vxdirect  # futures curve modelled directly, 2013-2026
 
 ```bibtex
 @misc{schneider2026volatility,
-  author = {Schneider, Alexis},
+  author = {Schneider Alexis, Simone Formetin, Davide Raffaelli},
   title  = {Statistical and Economic Evaluation of Volatility Term-Structure Forecasts:
             A Paired Placebo Design Applied to {VIX} Futures},
   year   = {2026},
