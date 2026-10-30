@@ -1,0 +1,4 @@
+h,MCS_90%,RW_dans_MCS,p_elimination
+5,"RW, ARMA, HAR, VAR, Ridge, Hybrid",True,0.811
+14,"RW, ARMA, HAR, VAR, Ridge, Hybrid",True,0.48
+30,"ARMA, HAR, VAR, Ridge, Hybrid",False,0.069

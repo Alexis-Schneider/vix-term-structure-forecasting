@@ -1,0 +1,6 @@
+periode,ternaire/spot,ternaire/spot_n,proportionnel/spot,proportionnel/spot_n,passif short vol,passif short vol_n,ternaire/futures,ternaire/futures_n,proportionnel/futures,proportionnel/futures_n
+2016-2017,-1.183,221,-1.214,221,1.717,221,-1.102,221,,221
+2018-2019,-0.652,474,-0.696,474,-0.469,474,0.66,474,-0.277,474
+2020,-1.097,239,-1.0,239,-1.162,239,0.942,239,1.174,239
+2021-2023,0.8,702,0.886,702,0.644,702,-0.293,702,-0.463,702
+TOTAL,-0.306,1636,-0.296,1636,0.169,1636,0.092,1636,-0.058,1636
