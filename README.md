@@ -143,8 +143,6 @@ python paper_numbers.py spa       # Hansen SPA over 45 configurations: p = 0.82
 python paper_numbers.py vxdirect  # futures curve modelled directly, 2013-2026
 ```
 
----
-
 @misc{schneider2026volatility,
   author = {Schneider, Alexis and Formentin, Simone and Raffaelli, Davide},
   title  = {Statistical and Economic Evaluation of Volatility Term-Structure Forecasts: 
