@@ -147,7 +147,7 @@ python paper_numbers.py vxdirect  # futures curve modelled directly, 2013-2026
 
 | Auteur | Affiliation | Profils |
 | :--- | :--- | :---: |
-| **Alexis Schneider** | Politecnico di Milano, DEIB (L2C Lab) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/VOTRE_USER) [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](LIEN_SCHOLAR) |
+| **Alexis Schneider** | Politecnico di Milano, DEIB (L2C Lab) | [![GitHub]([https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github](https://github.com/Alexis-Schneider?tab=repositories))](https://github.com/VOTRE_USER) [![Linkedin](https://www.linkedin.com/in/alexis-schneider-a91079325/))] |
 | **Simone Formentin** | Politecnico di Milano, DEIB (L2C Lab) | [![Web](https://img.shields.io/badge/Site-Web-blue?style=flat&logo=google-chrome&logoColor=white)](LIEN_SITE) [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](LIEN_SCHOLAR) |
 | **Davide Raffaelli** | Politecnico di Milano, DEIB (L2C Lab) | [![Web](https://img.shields.io/badge/Site-Web-blue?style=flat&logo=google-chrome&logoColor=white)](LIEN_SITE) [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](LIEN_SCHOLAR) |
 
