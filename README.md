@@ -142,14 +142,14 @@ python paper_numbers.py mech      # unrestricted t on the forecast = 0.10; permu
 python paper_numbers.py spa       # Hansen SPA over 45 configurations: p = 0.82
 python paper_numbers.py vxdirect  # futures curve modelled directly, 2013-2026
 ```
-<div align="center">
 
-| <img src="https://github.com/identicons/schneider.png" width="100px;" alt=""/><br /><sub><b>Alexis Schneider</b></sub> | <img src="https://github.com/identicons/formentin.png" width="100px;" alt=""/><br /><sub><b>Simone Formentin</b></sub> | <img src="https://github.com/identicons/raffaelli.png" width="100px;" alt=""/><br /><sub><b>Davide Raffaelli</b></sub> |
-| :---: | :---: | :---: |
-| Politecnico di Milano<br><sub>DEIB, L2C Laboratory</sub> | Politecnico di Milano<br><sub>DEIB, L2C Laboratory</sub> | Politecnico di Milano<br><sub>DEIB, L2C Laboratory</sub> |
-| [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/) | [![Scholar](https://img.shields.io/badge/-Scholar-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/) | [![Scholar](https://img.shields.io/badge/-Scholar-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/) |
+## 👥 Auteurs
 
-</div>
+| Auteur | Affiliation | Profils |
+| :--- | :--- | :---: |
+| **Alexis Schneider** | Politecnico di Milano, DEIB (L2C Lab) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/VOTRE_USER) [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](LIEN_SCHOLAR) |
+| **Simone Formentin** | Politecnico di Milano, DEIB (L2C Lab) | [![Web](https://img.shields.io/badge/Site-Web-blue?style=flat&logo=google-chrome&logoColor=white)](LIEN_SITE) [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](LIEN_SCHOLAR) |
+| **Davide Raffaelli** | Politecnico di Milano, DEIB (L2C Lab) | [![Web](https://img.shields.io/badge/Site-Web-blue?style=flat&logo=google-chrome&logoColor=white)](LIEN_SITE) [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](LIEN_SCHOLAR) |
 
 ## Licence
 
