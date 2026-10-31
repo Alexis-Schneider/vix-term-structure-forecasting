@@ -10,7 +10,6 @@ a failure to detect: the nested null is pushed through the entire economic pipel
 two portfolios differ in the forecast and in nothing else, and the overlap in their positions
 shrinks the standard error of the paired difference.
 
-The PDF is in [`paper/`](paper/).
 
 ---
 
@@ -147,10 +146,10 @@ python paper_numbers.py vxdirect  # futures curve modelled directly, 2013-2026
 
 | Auteur | Affiliation | Profils |
 | :--- | :--- | :---: |
-| **Alexis Schneider** | Politecnico di Milano, DEIB (L2C Lab) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alexis-Schneider?tab=repositories) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-schneider-a91079325/) |
+| **Alexis Schneider** | Politecnico di Milano (Visiting) / ENSIIE | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alexis-Schneider?tab=repositories) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-schneider-a91079325/) |
 | **Simone Formentin** | Politecnico di Milano, DEIB (L2C Lab) | [![Site Web](https://img.shields.io/badge/Site_Web-003366?style=flat&logo=google-chrome&logoColor=white)](https://formentin.faculty.polimi.it/) |
 | **Davide Raffaelli** | Politecnico di Milano, DEIB (L2C Lab) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-raffaelli-388486223/) |
-| **Andrea Pezzella** | Politecnico di Milano, DEIB (L2C Lab) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-pezzella-056b472aa/) |
+| **Andrea Pezzella** | Luiss Guido Carli University | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-pezzella-056b472aa/) |
 
 ## Licence
 
