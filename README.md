@@ -1,7 +1,7 @@
 # Statistical and Economic Evaluation of Volatility Term-Structure Forecasts
 
 Replication code for *Statistical and Economic Evaluation of Volatility Term-Structure
-Forecasts: A Paired Placebo Design Applied to VIX Futures* (Schneider, 2026).
+Forecasts: A Paired Placebo Design Applied to VIX Futures* (Schneider,Formentin ,Raffaelli, 2026).
 
 The paper asks whether the S&P 500 implied-volatility term structure can be forecast, and
 whether such a forecast can be monetised on VIX futures. The answer to the second question
